@@ -1,0 +1,4 @@
+--------------------
+--- Ar videogame ---
+--- Fix: GameOverPanel: opacity to full and cover all screen
+--------------------

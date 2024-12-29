@@ -1,0 +1,62 @@
+{
+    "name": "InputTest",
+    "maps": [
+        {
+            "name": "Touchscreen",
+            "id": "8bb80f19-bb09-4611-958b-24c99225d09c",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "9110c832-f04e-4b57-a7a7-f7432a5aea9e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e5e62fc4-9e50-4091-8093-f0f6dd7f861e",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Click",
+            "id": "6cb10026-576a-478f-8e99-e2035917945d",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "4c854786-e3d2-43bf-bf4c-3d37c2717515",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "622c7f31-526f-42a8-8e5a-aac74e8fe617",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

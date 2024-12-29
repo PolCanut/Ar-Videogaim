@@ -1,0 +1,17 @@
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+D:\UOC\Unity\bs\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

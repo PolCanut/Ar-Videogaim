@@ -48,17 +48,26 @@ public class BalloonSpawner : MonoBehaviour
 
     void DetectBalloonTouch()
     {
-        if (Touchscreen.current != null && Touchscreen.current.primaryTouch.press.isPressed)
+        // Verificar si hay una pantalla táctil disponible
+        if (Touchscreen.current != null)
         {
-            Vector2 touchPosition = Touchscreen.current.primaryTouch.position.ReadValue();
-            ProcessTouch(touchPosition);
+            if (Touchscreen.current.primaryTouch.press.isPressed)
+            {
+                Vector2 touchPosition = Touchscreen.current.primaryTouch.position.ReadValue();
+                ProcessTouch(touchPosition);
+            }
         }
-        else if (Mouse.current.leftButton.isPressed)
+        else if (Mouse.current != null && Mouse.current.leftButton.isPressed) // Verificar también si hay un ratón conectado
         {
             Vector2 mousePosition = Mouse.current.position.ReadValue();
             ProcessTouch(mousePosition);
         }
+        else
+        {
+            Debug.LogWarning("No input device detected: Touchscreen or Mouse.");
+        }
     }
+
 
     void ProcessTouch(Vector2 position)
     {

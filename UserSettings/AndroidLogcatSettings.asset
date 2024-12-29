@@ -3,8 +3,8 @@
     "m_SelectedProcess": {
         "deviceId": "99USHUHELJUCIVKR",
         "name": "com.unity.template.ar_mobile",
-        "processId": 18435,
-        "exited": true
+        "processId": 29697,
+        "exited": false
     },
     "m_SelectedPriority": 2,
     "m_KnownProcessesForSerialization": [
@@ -13,6 +13,30 @@
             "name": "com.unity.template.ar_mobile",
             "processId": 18435,
             "exited": true
+        },
+        {
+            "deviceId": "99USHUHELJUCIVKR",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 25799,
+            "exited": false
+        },
+        {
+            "deviceId": "99USHUHELJUCIVKR",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 27519,
+            "exited": false
+        },
+        {
+            "deviceId": "99USHUHELJUCIVKR",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 28706,
+            "exited": false
+        },
+        {
+            "deviceId": "99USHUHELJUCIVKR",
+            "name": "com.unity.template.ar_mobile",
+            "processId": 29697,
+            "exited": false
         }
     ],
     "m_Tags": {

@@ -81,19 +81,17 @@ public class GameController : MonoBehaviour
             gameOverPanel.SetActive(true);
         }
 
-        // Reproduce el sonido de "Game Over"
         if (audioSource != null && gameOverSound != null)
         {
             audioSource.PlayOneShot(gameOverSound);
         }
 
-        // Destruir todos los globos
         DestroyAllBalloons();
     }
     void DestroyAllBalloons()
     {
         // Encuentra todas las instancias activas de Balloon y destrúyelas
-        Balloon[] balloons = FindObjectsOfType<Balloon>();
+        Balloon[] balloons = FindObjectsOfType<Balloon>(); // Si lo cambio por FindObjectsByType me da error?? no se el porque
         foreach (Balloon balloon in balloons)
         {
             Destroy(balloon.gameObject);
